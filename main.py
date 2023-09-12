@@ -45,3 +45,9 @@ def run_internal_scan():
 
 def write_scan():
     pass
+
+def print_scan():
+    pass
+
+def verbose_print():
+    pass
